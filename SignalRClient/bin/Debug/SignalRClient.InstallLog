@@ -1,0 +1,52 @@
+﻿Installing assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe assembly.
+Committing assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe assembly.
+Committing assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe
+Installing service SRClientService...
+Creating EventLog source SRClientService in log Application...
+Rolling back assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe
+Restoring event log to previous state for source SRClientService.
+Installing assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe
+Installing service SRClientService...
+Service SRClientService has been successfully installed.
+Creating EventLog source SRClientService in log Application...
+Committing assembly 'E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.InstallLog
+   assemblypath = E:\StellaProjects\SignalRClient\SignalRClient\bin\Debug\SignalRClient.exe

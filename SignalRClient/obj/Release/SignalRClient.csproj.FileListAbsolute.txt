@@ -1,0 +1,9 @@
+E:\StellaProjects\SignalRClient\SignalRClient\bin\Release\SignalRClient.exe.config
+E:\StellaProjects\SignalRClient\SignalRClient\bin\Release\SignalRClient.exe
+E:\StellaProjects\SignalRClient\SignalRClient\bin\Release\SignalRClient.pdb
+E:\StellaProjects\SignalRClient\SignalRClient\bin\Release\Microsoft.AspNet.SignalR.Client.dll
+E:\StellaProjects\SignalRClient\SignalRClient\bin\Release\Newtonsoft.Json.dll
+E:\StellaProjects\SignalRClient\SignalRClient\bin\Release\Microsoft.AspNet.SignalR.Client.xml
+E:\StellaProjects\SignalRClient\SignalRClient\bin\Release\Newtonsoft.Json.xml
+E:\StellaProjects\SignalRClient\SignalRClient\obj\Release\SignalRClient.exe
+E:\StellaProjects\SignalRClient\SignalRClient\obj\Release\SignalRClient.pdb
